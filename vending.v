@@ -1,4 +1,4 @@
-module SM2(clk, rst, A, A, C, state, y);
+module SM2(clk, rst, A, B, C, state, y);
 
   input clk, rst;
   input A,B,C;
