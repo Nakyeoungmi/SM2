@@ -74,4 +74,4 @@ module vending(
     end
   end
 endmodule
-`timescale 1ns / 1ps
+
